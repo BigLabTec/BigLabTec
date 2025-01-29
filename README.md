@@ -1,4 +1,4 @@
-## Nome: Henrique Anthony
+
 <p align="center">Bem-vindo(a) ao meu perfil 😁</p>&nbsp; 
 
 
