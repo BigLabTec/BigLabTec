@@ -5,7 +5,7 @@
 <p align="center">Eu ❤️ resolver grandes problemas usando a tecnologia. <br><br> Sou um entusiasta de Python e apaixonado por inteligência artificial, análise de dados... Busco constantemente inovar e aventurar-me no desconhecido. Meu objetivo é projetar soluções que transformem o mundo, combinando minha paixão pela tecnologia com uma busca incessante por novos desafios.</p>&nbsp;  
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueAnthony&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henriqueanthony&theme=radical&mode=weekly" />
 
  </div>
  
